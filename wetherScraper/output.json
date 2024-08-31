@@ -1,0 +1,171 @@
+{
+    "title": "Popular Cities Forecast",
+    "date": "11/08/2024",
+    "cities": [
+        {
+            "city": "Amsterdam",
+            "temp": 25,
+            "condition": "Partly cloudy"
+        },
+        {
+            "city": "Antalya",
+            "temp": 33,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Auckland",
+            "temp": 11,
+            "condition": "Broken clouds"
+        },
+        {
+            "city": "Bali",
+            "temp": 21,
+            "condition": "Heavy intensity rain"
+        },
+        {
+            "city": "Barcelona",
+            "temp": 29,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Buenos Aires",
+            "temp": 12,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Cairo",
+            "temp": 36,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Canc�n",
+            "temp": 29,
+            "condition": "Thunderstorm with rain"
+        },
+        {
+            "city": "Cape Town",
+            "temp": 16,
+            "condition": "Light rain"
+        },
+        {
+            "city": "Dubai",
+            "temp": 41,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Hanoi",
+            "temp": 31,
+            "condition": "Heavy rain in places"
+        },
+        {
+            "city": "Hong Kong",
+            "temp": 31,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Honolulu",
+            "temp": 25,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Ibiza Town",
+            "temp": 32,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Istanbul",
+            "temp": 31,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Lima",
+            "temp": 15,
+            "condition": "Broken clouds"
+        },
+        {
+            "city": "London",
+            "temp": 27,
+            "condition": "Partly cloudy"
+        },
+        {
+            "city": "Marmagao",
+            "temp": 28,
+            "condition": "Broken clouds"
+        },
+        {
+            "city": "Oslo",
+            "temp": 22,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Paris",
+            "temp": 31,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Phuket",
+            "temp": 27,
+            "condition": "Thunderstorm with light rain"
+        },
+        {
+            "city": "Rhodes",
+            "temp": 32,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Rio de Janeiro",
+            "temp": 19,
+            "condition": "Few clouds"
+        },
+        {
+            "city": "Rome",
+            "temp": 37,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Seoul",
+            "temp": 29,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Sharm el Sheikh",
+            "temp": 40,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Singapore",
+            "temp": 28,
+            "condition": "Broken clouds"
+        },
+        {
+            "city": "Sydney",
+            "temp": 13,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Tenerife",
+            "temp": 29,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Tokyo",
+            "temp": 31,
+            "condition": "Partly cloudy"
+        },
+        {
+            "city": "Toronto",
+            "temp": 19,
+            "condition": "Overcast clouds"
+        },
+        {
+            "city": "Venice",
+            "temp": 31,
+            "condition": "Clear sky"
+        },
+        {
+            "city": "Vienna",
+            "temp": 33,
+            "condition": "Clear sky"
+        }
+    ]
+}
